@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../CodeWeb"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Prj_CSDL_Lab"
+		},
+		{
+			"path": "../Learn_java_script"
+		},
+		{
+			"path": "../Luyen code"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "W3_Web_Band"
+	}
+}
